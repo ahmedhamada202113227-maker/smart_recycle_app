@@ -1,14 +1,40 @@
 # Smart Recycle Bin - Flutter App
 
+- 🔭 I’m currently working on [Building mobile apps with Flutter](https://github.com/ahmedhamada202113227-maker/dasHboard)
+
+- 🌱 I’m currently learning **Advanced Flutter • Clean Architecture • State Management**
+
+- 👯 I’m looking to collaborate on **Flutter & Mobile App Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedhamada202113227-maker](https://github.com/ahmedhamada202113227-maker)
+
+- 💬 Ask me about **Flutter, Android, Mobile App Development**
+
+- 📫 How to reach me **ahmedhamada202113227@gmail.com**
+
+- 📄 Know about my experiences [## 💻 Technical Experience - **Flutter & Android Development** Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - **Git & GitHub** Experienced in version control, branching strategies, pull requests, and collaborative workflows. - **Firebase & Backend Integration** Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - **UI/UX Implementation** Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity](## 💻 Technical Experience - **Flutter & Android Development** Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - **Git & GitHub** Experienced in version control, branching strategies, pull requests, and collaborative workflows. - **Firebase & Backend Integration** Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - **UI/UX Implementation** Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity)
+
+
 ## 📱 نظرة عامة
-تطبيق موبايل متكامل لمساعدة المستخدمين على الإقلاع عن العادات السلبية من خلال:
-<!-- - تتبع يومي للتقدم
-- رسائل تحفيزية منتظمة
-- تقويم شهري للأيام الناجحة
-- تتبع الصلوات الخمس
-- مذكرات شخصية
-- نظام مكافآت محفز
-- إعدادات قابلة للتخصيص -->
+
+♻️ Smart Recycle Bin App
+
+Smart Recycle Bin App is an intelligent waste management application designed to optimize recycling processes and promote environmentally friendly practices.
+The app monitors bin status in real-time, provides alerts for overflow, and helps streamline waste collection for cleaner, smarter cities.
+
+Built with Flutter and MVVM architecture, the app focuses on scalability, performance, and a smooth user experience.
+
+
+
+🚀 Features
+
+- 🗑️ Real-time bin fill-level monitoring
+- 📡 IoT sensor integration for smart tracking
+- 🚨 Overflow and maintenance notifications
+- 📊 Usage statistics and insights for bins
+- 📍 Bin location tracking
+- 📱 Clean, responsive, and intuitive UI
+
 
 ## 🏗️ البنية المعمارية
 التطبيق مبني على نمط **MVVM** (Model-View-ViewModel):
